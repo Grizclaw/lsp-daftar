@@ -74,6 +74,10 @@ Web pendaftaran ini dibuat untuk mendaftar institusi pendidikan pendidikan SMP 7
 # Tampilan Database Pendaftaran_Siswa
 
 
+**Database Pendaftaran_siswa**
+
+![image](https://user-images.githubusercontent.com/81188572/177055414-b5c8da81-c453-445c-bb22-3324a94a3c92.png)
+
 **Tabel User**
 
 ![image](https://user-images.githubusercontent.com/81188572/177055322-61267f73-be9a-45aa-b7f2-1c5b69666ccc.png)
