@@ -12,7 +12,7 @@ Web pendaftaran ini dibuat untuk mendaftar institusi pendidikan pendidikan SMP 7
 9. Nomor Telephone
 10. Alamat
 
-#Fungsi
+# Fungsi
 
 **Peserta**
 - Pendaftar sebelum login dapat register dengan memasukkan Nama, Username, dan Password
